@@ -1,8 +1,6 @@
 import "./App.css";
 
 function App() {
-  // Blog Preview Card
-
   return (
     <div className="bg-flat-yellow min-h-screen flex justify-center items-center">
       <main className="w-80 font-figtree p-6 flex flex-col bg-white rounded-2xl border-2 border-black shadow-[5px_5px_0px_rgba(0,0,0,0.9)] md:w-96">
